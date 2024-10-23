@@ -1,7 +1,7 @@
-trigger by: workflow_run
+trigger by: workflow_dispatch
 current system time:
-UTC: 24-10-23 06:55:35
-北京时间: 24-10-23 14:55:35
+UTC: 24-10-23 06:58:08
+北京时间: 24-10-23 14:58:08
 current cron:
 UTC时间: '5,10 16 * * *'
 北京时间: '5,10 0 * * *'
