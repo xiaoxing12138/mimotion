@@ -81,7 +81,8 @@ def push_plus(title, content):
         "title": title,
         "content": content,
         "template": "html",
-        "channel": "webhook"
+        "channel": "webhook",
+        "webhook": "123"
     }
     try:
         response = requests.post(requestUrl, data=data)
